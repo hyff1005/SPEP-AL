@@ -32,7 +32,6 @@ All paths below are relative to the outer `SPEP-AL/` directory obtained after ex
 
 The inner `SPEP-AL/` directory is part of the supplied archive and contains the implementation modules. It is distinct from the outer archive root.
 
-The three supplementary scripts currently have a duplicated `.sh.sh` extension. Their exact archived names are retained in this README. The intended shorter names are `run_supplementary_experiments.sh`, `run_additional_controls.sh`, and `run_wt11_pareto.sh`.
 
 ## Implementation overview
 
